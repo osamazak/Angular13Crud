@@ -1,0 +1,212 @@
+{
+  "productsList": [
+    {
+      "productName": "Apple osamazaki",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-11T22:00:00.000Z",
+      "productFreshness": "Brans New",
+      "productPrice": 100,
+      "productComment": "This is a fresh Apple",
+      "id": 1
+    },
+    {
+      "productName": "Mango",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-09T22:00:00.000Z",
+      "productFreshness": "Second Hand",
+      "productPrice": 254,
+      "productComment": "This not Fresh",
+      "id": 2
+    },
+    {
+      "productName": "Water melonnn",
+      "productCategory": "Vegetables",
+      "productDate": "2022-10-01T22:00:00.000Z",
+      "productFreshness": "Refurbished",
+      "productPrice": 51,
+      "productComment": "Water melon  is the Best",
+      "id": 3
+    },
+    {
+      "productName": "Apple",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-11T22:00:00.000Z",
+      "productFreshness": "Brans New",
+      "productPrice": 100,
+      "productComment": "This is a fresh Apple",
+      "id": 4
+    },
+    {
+      "productName": "Water melon ",
+      "productCategory": "Vegetables",
+      "productDate": "2022-10-01T22:00:00.000Z",
+      "productFreshness": "Refurbished",
+      "productPrice": 51,
+      "productComment": "Water melon  is the Best",
+      "id": 6
+    },
+    {
+      "productName": "Apple",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-11T22:00:00.000Z",
+      "productFreshness": "Brans New",
+      "productPrice": 100,
+      "productComment": "This is a fresh Apple",
+      "id": 7
+    },
+    {
+      "productName": "Mango",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-09T22:00:00.000Z",
+      "productFreshness": "Second Hand",
+      "productPrice": 254,
+      "productComment": "This not Fresh",
+      "id": 8
+    },
+    {
+      "productName": "Water melon ",
+      "productCategory": "Vegetables",
+      "productDate": "2022-10-01T22:00:00.000Z",
+      "productFreshness": "Refurbished",
+      "productPrice": 51,
+      "productComment": "Water melon  is the Best",
+      "id": 9
+    },
+    {
+      "productName": "Mango",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-09T22:00:00.000Z",
+      "productFreshness": "Second Hand",
+      "productPrice": 254,
+      "productComment": "This not Fresh",
+      "id": 11
+    },
+    {
+      "productName": "Water melon ",
+      "productCategory": "Vegetables",
+      "productDate": "2022-10-01T22:00:00.000Z",
+      "productFreshness": "Refurbished",
+      "productPrice": 51,
+      "productComment": "Water melon  is the Best",
+      "id": 12
+    },
+    {
+      "productName": "Apple",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-11T22:00:00.000Z",
+      "productFreshness": "Brans New",
+      "productPrice": 100,
+      "productComment": "This is a fresh Apple",
+      "id": 13
+    },
+    {
+      "productName": "Mango",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-09T22:00:00.000Z",
+      "productFreshness": "Second Hand",
+      "productPrice": 254,
+      "productComment": "This not Fresh",
+      "id": 14
+    },
+    {
+      "productName": "Water melon ",
+      "productCategory": "Vegetables",
+      "productDate": "2022-10-01T22:00:00.000Z",
+      "productFreshness": "Refurbished",
+      "productPrice": 51,
+      "productComment": "Water melon  is the Best",
+      "id": 15
+    },
+    {
+      "productName": "Apple",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-11T22:00:00.000Z",
+      "productFreshness": "Brans New",
+      "productPrice": 100,
+      "productComment": "This is a fresh Apple",
+      "id": 16
+    },
+    {
+      "productName": "Mango",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-09T22:00:00.000Z",
+      "productFreshness": "Second Hand",
+      "productPrice": 254,
+      "productComment": "This not Fresh",
+      "id": 17
+    },
+    {
+      "productName": "Water melon ",
+      "productCategory": "Vegetables",
+      "productDate": "2022-10-01T22:00:00.000Z",
+      "productFreshness": "Refurbished",
+      "productPrice": 51,
+      "productComment": "Water melon  is the Best",
+      "id": 18
+    },
+    {
+      "productName": "Apple",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-11T22:00:00.000Z",
+      "productFreshness": "Brans New",
+      "productPrice": 100,
+      "productComment": "This is a fresh Apple",
+      "id": 19
+    },
+    {
+      "productName": "Mango",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-09T22:00:00.000Z",
+      "productFreshness": "Second Hand",
+      "productPrice": 254,
+      "productComment": "This not Fresh",
+      "id": 20
+    },
+    {
+      "productName": "Water melon ",
+      "productCategory": "Vegetables",
+      "productDate": "2022-10-01T22:00:00.000Z",
+      "productFreshness": "Refurbished",
+      "productPrice": 51,
+      "productComment": "Water melon  is the Best",
+      "id": 21
+    },
+    {
+      "productName": "Apple",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-11T22:00:00.000Z",
+      "productFreshness": "Brans New",
+      "productPrice": 100,
+      "productComment": "This is a fresh Apple",
+      "id": 22
+    },
+    {
+      "productName": "Mango",
+      "productCategory": "Fruits",
+      "productDate": "2022-10-09T22:00:00.000Z",
+      "productFreshness": "Second Hand",
+      "productPrice": 254,
+      "productComment": "This not Fresh",
+      "id": 23
+    },
+    {
+      "productName": "Water melon ",
+      "productCategory": "Vegetables",
+      "productDate": "2022-10-01T22:00:00.000Z",
+      "productFreshness": "Refurbished",
+      "productPrice": 51,
+      "productComment": "Water melon  is the Best",
+      "id": 24
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,26 @@
+/* You can add global styles to this file, and also import other style files */
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+table {
+  width: 100%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+
+.mat-form-field{
+  width: 100% !important;
+  min-width: 600px;
+}
+.mat-radio-group.example-radio-group .example-radio-button {
+  margin: 5px 5px 10px 5px !important;
+}
+.mat-radio-group.example-radio-group {
+  display: flex;
+  flex-direction: column;
+}
